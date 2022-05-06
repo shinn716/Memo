@@ -5,6 +5,6 @@ My dev memo.
 
 * [FFMPEG](https://hackmd.io/CeadEbWiTY2XYGxqZQsLfQ)  
 
-* [NV-CLoudXR](https://hackmd.io/nyW44lZpSiSs6tii8V8mPQ)  
+* [Nvidia - CloudXR](https://hackmd.io/nyW44lZpSiSs6tii8V8mPQ)  
 
-* [Addressable Assets](https://hackmd.io/@shinn716/BkUzm6J49)  
+* [Addressable Assets / WebGL Optimization](https://hackmd.io/@shinn716/BkUzm6J49)  
