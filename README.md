@@ -12,7 +12,7 @@ My dev memo.
 
 * [Nvidia - CloudXR](https://hackmd.io/nyW44lZpSiSs6tii8V8mPQ)  
 
-* [Addressable Assets / WebGL Optimization](https://hackmd.io/@shinn716/BkUzm6J49)  
+* [Addressable Assets](https://hackmd.io/@shinn716/BkUzm6J49)  
 
 * [Hololens Setup / QRCode Tracking](https://hackmd.io/@shinn716/rJOVtgf_F)
 
