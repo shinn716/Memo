@@ -10,7 +10,7 @@ My dev memo.
 
 * [ＷebGL專案優化](https://hackmd.io/@shinn716/Hksj4OgPq)
 
-* [FFMPEG](https://hackmd.io/CeadEbWiTY2XYGxqZQsLfQ)  
+* [FFMPEG](https://hackmd.io/@shinn716/Bk9JGARbc)  
 
 * [Nvidia - CloudXR](https://hackmd.io/nyW44lZpSiSs6tii8V8mPQ)  
 
@@ -18,6 +18,6 @@ My dev memo.
 
 * [Hololens Setup / QRCode Tracking](https://hackmd.io/@shinn716/rJOVtgf_F)
 
-* [Hololens: ISAR SDK](https://hackmd.io/jEwOhx40RYSX7h_UAKl76Q)
+* [Hololens: ISAR SDK](https://hackmd.io/@shinn716/ryFt07OsK)
 
 * [Custom Build Pipline](https://hackmd.io/@shinn716/SyboNK8nF)
