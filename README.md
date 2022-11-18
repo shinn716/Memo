@@ -4,6 +4,7 @@ My dev memo.
 ## Plugins  
 * [Unity plugins collection](https://docs.google.com/spreadsheets/d/1osynCKKK7D8kHE4IUL2BYrK3Qvxtsclyp6BWnjdwoD4/edit#gid=0)    
 
+
 ## Topic
   
 * [Simplygon Unity Plugin](https://shinn716.gitbook.io/simplygon/)  
@@ -11,8 +12,6 @@ My dev memo.
 * [AprilTag Marker Tracking in Unity](https://hackmd.io/@shinn716/Byn3BjO65)  
 
 * [Unity Render Streaming](https://hackmd.io/@shinn716/H1gBahLKc)
-
-* [ＷebGL專案優化](https://hackmd.io/@shinn716/Hksj4OgPq)
 
 * [FFMPEG](https://hackmd.io/@shinn716/Bk9JGARbc)  
 
@@ -25,3 +24,8 @@ My dev memo.
 * [Hololens: ISAR SDK](https://hackmd.io/@shinn716/ryFt07OsK)
 
 * [Custom Build Pipline](https://hackmd.io/@shinn716/SyboNK8nF)
+
+
+## Optimization
+
+* [Unity Texture optimization](hhttps://hackmd.io/@shinn716/S14rcPELj)
