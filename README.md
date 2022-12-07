@@ -29,3 +29,7 @@ My dev memo.
 ## Optimization
 
 * [Unity Texture optimization](https://hackmd.io/@shinn716/S14rcPELj)
+  
+  
+## Other
+ * WebGL Export tips - https://docs.crazygames.com/other/unity-export-tips/#urp-and-post-processing-effects
