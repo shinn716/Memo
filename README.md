@@ -32,4 +32,4 @@ My dev memo.
   
   
 ## Other
- * WebGL Export tips - https://docs.crazygames.com/other/unity-export-tips/#urp-and-post-processing-effects
+ * WebGL Export tips - https://docs.crazygames.com/other/unity-export-tips/  
