@@ -33,3 +33,7 @@ My dev memo.
   
 ## Other
  * WebGL Export tips - https://docs.crazygames.com/other/unity-export-tips/  
+ 
+* Free Toon Assets - https://www.kenney.nl/  
+
+* Free realistic assets - https://quixel.com/megascans/home/  
