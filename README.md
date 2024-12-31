@@ -38,4 +38,4 @@ My dev memo.
 
 * Free realistic assets - https://quixel.com/megascans/home/
   
-* Custom Template https://www.youtube.com/watch?v=2k7Q-5JyJws
+* Custom Template - https://fistfullofshrimp.com/unity-create-custom-project-templates/  
