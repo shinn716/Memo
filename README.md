@@ -36,4 +36,6 @@ My dev memo.
  
 * Free Toon Assets - https://www.kenney.nl/  
 
-* Free realistic assets - https://quixel.com/megascans/home/  
+* Free realistic assets - https://quixel.com/megascans/home/
+  
+* Custom Template https://www.youtube.com/watch?v=2k7Q-5JyJws
