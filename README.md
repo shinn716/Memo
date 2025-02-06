@@ -29,6 +29,12 @@ My dev memo.
 ## Optimization
 
 * [Unity Texture optimization](https://hackmd.io/@shinn716/S14rcPELj)
+
+## Backend
+  
+* [Backend env. setup](https://hackmd.io/@shinn716/rJdSNERUyg)
+
+* [Connecting to MySQL-Server](https://hackmd.io/@shinn716/rJCS19xF1x)
   
   
 ## Other
@@ -39,5 +45,3 @@ My dev memo.
 * Free realistic assets - https://quixel.com/megascans/home/
   
 * Custom Template - https://fistfullofshrimp.com/unity-create-custom-project-templates/
-  
-* Backend env. setup - https://hackmd.io/@shinn716/rJdSNERUyg  
